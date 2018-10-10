@@ -12,3 +12,10 @@ node app.js add
     <li>Second is the path of the file (here app.js)</li>
     <li>Third will be the command you passed (here add)</li>
 </ul>
+
+### Use of yargs 
+```
+node install yargs --save
+```
+<p>When we pass the other input parameter the use of [yargs](https://github.com/yargs/yargs) is very usefull </p>
+
