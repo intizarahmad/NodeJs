@@ -6,6 +6,5 @@
     <li>Node Builtin modules</li>
     <li>Nodemon Module for hot reloading</li>
 </ul>
-# Usefull Node modules
-- yarg : use to parse user input from command line
+# NodeJs Basic concepts
 - yarg : use to parse user input from command line
