@@ -1,0 +1,23 @@
+{
+  "name": "NodeJs",
+  "version": "1.0.0",
+  "description": "<h1>Basic Concepts</h1> <ul>     <li>What is V8 JavaScript Engine?</li>     <li>Blocking and Non Blocking events</li>     <li>Node Builtin modules</li> </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intizarahmad/NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intizarahmad/NodeJs/issues"
+  },
+  "homepage": "https://github.com/intizarahmad/NodeJs#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
