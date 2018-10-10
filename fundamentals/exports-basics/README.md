@@ -5,7 +5,7 @@
 <p>You can simple use that module by just including that module by 
 
 ``` 
->const os = require('os')
+const os = require('os')
 ```
 </p>
 </li>
