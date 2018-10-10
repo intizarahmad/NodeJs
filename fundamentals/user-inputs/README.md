@@ -17,5 +17,5 @@ node app.js add
 ```
 node install yargs --save
 ```
-<p>When we pass the other input parameter the use of [yargs](https://github.com/yargs/yargs) is very usefull </p>
+<p>When we pass the other input parameter the use of [Yargs](https://github.com/yargs/yargs). is very usefull </p>
 
