@@ -3,8 +3,9 @@
 <ol>
 <li><strong>If the module is part of core nodejs :</strong> 
 <p>You can simple use that module by just including that module by 
+
 ``` 
-const os = require('os')
+>const os = require('os')
 ```
 </p>
 </li>
