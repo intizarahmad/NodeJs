@@ -1,6 +1,7 @@
 ### Accessing the user input from commands
 <p>process.argv is used to get the input passed from the command line</p>
 <p>Suppose you a run a command</p>
+
 ```
 node app.js add
 ```
